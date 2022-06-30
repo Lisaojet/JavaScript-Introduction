@@ -9,7 +9,7 @@ let countryLetter = myCountry[0].toUpperCase();
 let country = countryLetter + n 
 
 
-prompt(myName);
-prompt(myHeight);
-prompt(country); 
+console.log(myName);
+console.log(myHeight);
+console.log(country); 
 
