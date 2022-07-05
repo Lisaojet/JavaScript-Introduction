@@ -1,6 +1,6 @@
 
 let myName = 'My name is Ojetunji Elizabeth';
-let myHeight = 'I am 3 meters tall';
+let myHeight = '3 meters';
 let myCountry = 'nigeria';
 
 let myCountryCap = myCountry.toUpperCase();
